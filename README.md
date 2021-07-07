@@ -17,7 +17,9 @@ const host = 'YOUR_IP_HERE'; //ex. 'localhost'
 const port = 82; //ex. 80
 ```
 Add folder 'db' to initial folder, there was storage .json files with saved information from Unisender API.
+
 To launch script on VDS with Unix(Linux) use mbash.sh (bash-script what kill other nodejs processes(to kill last start of this script) and start new in the background).
+
 Or if use the Windows or Unix(Linux) just type: ```npm install``` then ```node app.js```
 
 ### License
